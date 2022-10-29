@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "plan-api",
+      "type": "com.spwosi.plan.props.AppProperties",
+      "sourceType": "com.spwosi.plan.props.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "plan-api.messages",
+      "type": "java.util.Map<java.lang.String,java.lang.String>",
+      "sourceType": "com.spwosi.plan.props.AppProperties"
+    }
+  ],
+  "hints": []
+}

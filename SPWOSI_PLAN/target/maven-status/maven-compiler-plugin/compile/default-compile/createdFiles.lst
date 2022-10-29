@@ -1,0 +1,12 @@
+META-INF\spring-configuration-metadata.json
+com\spwosi\plan\repo\PlanRepo.class
+com\spwosi\plan\rest\PlanRestController.class
+com\spwosi\plan\SpwosiPlanApplication.class
+com\spwosi\plan\entity\PlanCategory.class
+com\spwosi\plan\entity\Plans.class
+com\spwosi\plan\service\PlanService.class
+com\spwosi\plan\service\PlanServiceImpl.class
+com\spwosi\plan\repo\PlanCategoryRepo.class
+com\spwosi\plan\constant\AppConstants.class
+com\spwosi\plan\config\SwaggerConfig.class
+com\spwosi\plan\props\AppProperties.class

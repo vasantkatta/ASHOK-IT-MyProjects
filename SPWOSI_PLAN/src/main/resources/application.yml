@@ -1,0 +1,24 @@
+spring:
+  datasource:
+    username: root
+    password: Vasant1990*
+    url: jdbc:mysql://localhost:3306/spwosidb
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+        
+plan-api:
+  messages:
+    planSaveSucc: Plan Saved Successfully
+    planSaveFail: Plan Saving Failed
+    planUpdateSucc: Plan Updated Successfully
+    planUpdateFail: Plan Update Failed
+    planDeleteSucc: Plan Deleted Successfully
+    planDeleteFail: Plan Deleted Failed
+    planSatusChange: Plan Status Changed
+    planStatusChangeFail: Plan Status Changed Failed
+    
+    
