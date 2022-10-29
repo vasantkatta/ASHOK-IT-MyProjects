@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: root
+    password: Vasant1990*
+    url: jdbc:mysql://localhost:3306/spwosidb
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
