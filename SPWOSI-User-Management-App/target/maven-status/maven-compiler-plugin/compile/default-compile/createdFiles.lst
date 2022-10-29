@@ -1,0 +1,11 @@
+com\spwosi\utils\EmailUtils.class
+com\spwosi\service\UserMgmtService.class
+com\spwosi\config\SwaggerConfig.class
+com\spwosi\entity\UserMaster.class
+com\spwosi\bindings\ActivateAccount.class
+com\spwosi\bindings\Login.class
+com\spwosi\bindings\User.class
+com\spwosi\repo\UserMasterRepo.class
+com\spwosi\service\UserMgmtServiceImpl.class
+com\spwosi\SpwosiUserManagementAppApplication.class
+com\spwosi\rest\UserRestController.class
